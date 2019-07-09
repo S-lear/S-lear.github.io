@@ -81,4 +81,4 @@ theme: hexo-theme-next
 deploy:
   type: git
   branch: master
-  repository: ssh://git@github.com:S-lear/s-lear.github.io.git
+  repository: https://github.com/S-lear/s-lear.github.io.git
