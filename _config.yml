@@ -79,4 +79,6 @@ theme: hexo-theme-next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  branch: master
+  repository: ssh://git@github.com:S-lear/s-lear.github.io.git
