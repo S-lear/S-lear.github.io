@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[vue-api源码解析]]></title>
+    <url>%2Fvue%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[index]]></title>
     <url>%2Findex%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[简书]]></content>
   </entry>
 </search>
