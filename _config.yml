@@ -8,7 +8,7 @@ subtitle: 前端
 description: 一个前端小白的进阶之路
 keywords: vue.js node.js webpack html css es6 js flutter
 author: songbo.zheng
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -82,3 +82,9 @@ deploy:
   type: git
   branch: master
   repository: https://github.com/S-lear/s-lear.github.io.git
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
